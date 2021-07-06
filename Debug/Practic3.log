@@ -1,0 +1,12 @@
+﻿  Practic3.cpp
+C:\Users\User\source\repos\Practic3\Practic3\Practic3.cpp(3,15): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\source\repos\Practic3\Practic3\Practic3.cpp(61,22): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\source\repos\Practic3\Practic3\Practic3.cpp(62,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Practic3\Practic3\Practic3.cpp(86,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Practic3\Practic3\Practic3.cpp(87,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\Practic3\Practic3\Practic3.cpp(96,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\Practic3\Practic3\Practic3.cpp(96,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\Practic3\Practic3\Practic3.cpp(99,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\Practic3\Practic3\Practic3.cpp(127,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\Practic3\Practic3\Practic3.cpp(127,16): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Practic3.vcxproj -> C:\Users\User\source\repos\Practic3\Debug\Practic3.exe
